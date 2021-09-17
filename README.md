@@ -1,5 +1,5 @@
 [![Commit rate](https://img.shields.io/github/commit-activity/m/byukan/bookrec?label=Commits)](https://github.com/byukan/bookrec/commits/master)
-[![License](https://warehouse-camo.ingress.cmh1.psfhosted.org/110fcca60a43a8ea37b1a5bda616e639325f2f30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d425344253230332d2d436c617573652d626c75652e737667)](https://github.com/byukan/bookrec/blob/master/LICENSE.txt)
+[![License](https://warehouse-camo.ingress.cmh1.psfhosted.org/110fcca60a43a8ea37b1a5bda616e639325f2f30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d425344253230332d2d436c617573652d626c75652e737667)](https://github.com/byukan/bookrec/blob/main/LICENSE)
 
 
 *** 
